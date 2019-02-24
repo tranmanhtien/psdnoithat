@@ -110,6 +110,9 @@ body css
 .content2{
     margin-top: 138px;
 }
+.content2 .container .row {
+    padding-left: 98px;
+}
 .content2 .container h3{
    padding-bottom: 67px;
     padding-left: 75px;
@@ -118,8 +121,93 @@ body css
     padding: 40px 40px 130px 10px;
 }
 
-content2-row p,h5{
+.content2-row h5{
     text-align: center;
+    padding: 10px;
+}
+.content2-row p{
+    text-align: center;
+    color: #929292;
+}
+
+.content2-row img{
+    padding-left: 124px;
+    padding-bottom: 20px;
+}
+
+.content2-img-row {
+    box-shadow: 18px 18px 20px 0px #ccc;
+}
+/*content3*/
+.content3{
+    padding-top: 122px;
+}
+.content3 h3{
+    text-align: center;
+}
+.content3 p{
+    padding:68px 110px 68px 165px;
+    font-size: 15px;
+    color: #929292;
+    vertical-align: middle;
+    text-align: center;
+}
+.img-content3 img{
+    width: 100%;
+    height: auto;
+}
+/*content4*/
+.content4{
+    background-image: url("../images/ct4.png");
+    background-size: contain;
+    height:304px;
+    width: 100%;
+}
+.content4 h4{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 61px;
+    padding-bottom: 49px;
+}
+.content4 {
+    text-align: center;
+}
+.ip-ct4{
+    position: absolute;
+    z-index: 2;
+    padding-left: 380px;
+}
+.ip-ct4 input{
+    text-align: center;
+    border-radius: 32px;
+    border: none;
+    display: inline-block;
+    padding: 10px 50px 10px 15px;
+}
+.ip-ct4 input[type="submit"]{
+    background-color: #f48146;
+    width: 19%;
+    color: #ffffff;
+    padding-left: 16px;
+}
+.ip-ct4 input[type="text"]{
+    padding-right: 125px;
+}
+.content5{
+    text-align: center;
+    background: #f8f8f8;
+}
+.content5 h4{
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+.content5 p{
+    font-size: 15px;
+    color: #888888;
+    padding: 15px 251px;
+}
+..content5 span{
+
 }
 /*
 footer css

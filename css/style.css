@@ -196,6 +196,7 @@ body css
 .content5{
     text-align: center;
     background: #f8f8f8;
+    padding-bottom: 100px;
 }
 .content5 h4{
     padding-top: 90px;
@@ -204,10 +205,57 @@ body css
 .content5 p{
     font-size: 15px;
     color: #888888;
-    padding: 15px 251px;
+    padding: 15px 301px;
 }
-..content5 span{
+.content5 h5{
+    font-size:17px ;
+    color: #fb8b52;
+}
+.content5 span{
+ color: #777777;
+}
+.square i{
+    font-size: 10px;
 
+}
+.square i:hover{
+    background: #fc7029;
+}
+/*content6*/
+.content6{
+    padding-top:145px;
+    padding-bottom:140px;
+}
+.content6 span{
+    color: #f48146;
+}
+.content6 p{
+    color: #929292;
+    padding-bottom: 30px;
+}
+.content6 h3{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.content6 .img1-ct6 input{
+    color: #ffffff;
+    background: #f48146;
+    border: none;
+    border-radius: 32px;
+    padding: 10px 30px;
+}
+.img1-ct6 img{
+    padding-top: 38px;
+   height: 330px;
+    width: 361px;
+}
+.img2-ct6 img{
+    height:632px;
+    width:403px;
+}
+.img3-ct6 img{
+    height: 318px;
+    width: 361px;
 }
 /*
 footer css
